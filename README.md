@@ -1,12 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 20px;">
-  <img
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJ3em5iN2p1dmE3d2NwaXprdm0yeWVxdGF6aWtwank5dnM5eGpyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4lu5FuhtrbaOQgKN57/giphy.gif"
-    alt=""
-  />
-</div>
-
 <h1>
-    Hi, My name Azamat
+    Hi, My name Artur
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVwbTJibzhqa3NyY3A1M2F0NjEyOG9yb2J0YTV1Z2pvN3p3dXZ0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="30px"/>
 </h1>
 
